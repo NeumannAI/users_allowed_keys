@@ -19,5 +19,5 @@ chsh -s $(which zsh) alok
 sleep 2
 
 # DEFAULT PASSWORDS AND SUDO USERS
-usermod -aG sudo sauhaarda
+#usermod -aG sudo sauhaarda
 # echo sauhaarda:password | chpasswd
